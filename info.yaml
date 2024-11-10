@@ -4,7 +4,7 @@ project:
   title:        "tt09-4bit-adder-dhags"      # Project title
   author:       "Danny"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "This is a 4-bit adder that takes two 4-bit inputs and adds them, outputting them as a 5-bit number."  # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
