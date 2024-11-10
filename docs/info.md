@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a 4-bit adder that takes two 4-bit inputs and adds them, outputting them as a 5-bit number.
 
 ## How to test
 
