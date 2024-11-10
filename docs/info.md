@@ -13,8 +13,8 @@ This is a 4-bit adder that takes two 4-bit inputs and adds them, outputting them
 
 ## How to test
 
-Explain how to use your project
+Flip the DIP Switch with inputs 0-3 corresponding to the first number and 4-7 corresponding to the second number. See if the output leds light up in a way that makes sense if the two numbers were added.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+DIP Switch and a 7-segment display or leds.
